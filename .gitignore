@@ -1,0 +1,9 @@
+*
+!/**/
+!*.*
+
+!Makefile
+*.in
+*.out
+*.exe
+.DS_Store
