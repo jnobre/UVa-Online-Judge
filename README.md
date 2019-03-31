@@ -2,18 +2,6 @@
 
 This repository contains solutions to [UVa Online Judge][1] problems, available at [http://uva.onlinejudge.org][1]. Theses solutions are provided "as is". I give no guarantees that they will work as expected. 
 
-## Install (Under development - not working)
-
-You can compile a specific problem, issue the following command, replacing `<problem_id>` with the section and id of the problem you want to compile, see section "Problem Solved" for the list of possible ids:
-
-	$ make <problem_id>
-
-Running a compiled problem is just a matter of executing a command similar to the next one, replacing `100` with the id of the desired problem:
-
-	$ ./100
-
-Unless stated otherwise, every problem in this repository reads from the standard input and writes to standard output.
-
 ## Problems Solved
 
 The following is the list of the problems solved. Each problem id is specified between round brackets. 
@@ -51,7 +39,9 @@ Problems marked with ✓ are done, while problems with ✗ are not complete and/
 * ✓ [Word-Search Wonder][422] (`422`)
 * ✓ [Graph Connectivity][459] (`459`)
 * ✓ [Wetlands of Florida][469] (`469`)
-* ✗ [Raucous Rockers][473] (`473`)
+* ✓ [Raucous Rockers][473] (`473`)
+* ✓ [What Goes Up][481] (`481`)
+* ✗ [Permutation Arrays][482] (`482`)
 
 
 [1]: http://uva.onlinejudge.org
@@ -75,5 +65,7 @@ Problems marked with ✓ are done, while problems with ✗ are not complete and/
 [459]: http://uva.onlinejudge.org/external/4/459.html
 [469]: http://uva.onlinejudge.org/external/4/469.html
 [473]: http://uva.onlinejudge.org/external/4/473.html
+[481]: http://uva.onlinejudge.org/external/4/481.html
+[482]: http://uva.onlinejudge.org/external/4/482.html
 
 
