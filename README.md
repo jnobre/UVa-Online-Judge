@@ -41,8 +41,13 @@ Problems marked with ✓ are done, while problems with ✗ are not complete and/
 * ✓ [Wetlands of Florida][469] (`469`)
 * ✓ [Raucous Rockers][473] (`473`)
 * ✓ [What Goes Up][481] (`481`)
-* ✗ [Permutation Arrays][482] (`482`)
+* ✓ [Permutation Arrays][482] (`482`)
+* ✓ [Word Scramble][483] (`483`)
 
+#### Volume 5
+
+* ✓ [Jill Rides Again][507](`507`)
+* ✗ [Rails][514] (`514`)
 
 [1]: http://uva.onlinejudge.org
 [infoSE]: http://uva.onlinejudge.org/index.php?option=com_content&task=view&id=21
@@ -67,5 +72,6 @@ Problems marked with ✓ are done, while problems with ✗ are not complete and/
 [473]: http://uva.onlinejudge.org/external/4/473.html
 [481]: http://uva.onlinejudge.org/external/4/481.html
 [482]: http://uva.onlinejudge.org/external/4/482.html
-
-
+[483]: http://uva.onlinejudge.org/external/4/483.html
+[507]: http://uva.onlinejudge.org/external/5/507.html
+[514]: http://uva.onlinejudge.org/external/5/514.html
